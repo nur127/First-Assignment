@@ -22,6 +22,7 @@ header button{
     padding: 8px;
     border-radius: 5px ;
     border: 1px solid black;
+    cursor: pointer;
     
 }
 #banner{
@@ -62,6 +63,7 @@ color: white;
 padding: 10px;
 border-radius: 10px;
 font-weight: 600;
+cursor: pointer;
 }
 #middle{
     padding: 5px;
@@ -130,7 +132,7 @@ font-weight: lighter;
     width: 80%;
     height: 300px;
     border-radius: 10px;
-    background-image: url("/assets/handshake.jpg") ;
+    background-image: url("./assets/handshake.jpg") ;
     background-size: cover;
     margin: auto;
     margin-top: 10px;
