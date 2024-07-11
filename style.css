@@ -169,3 +169,18 @@ input[type=submit] {
     font-weight: bold;
     
   }
+
+   
+footer{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+footer ul{
+    display: flex;
+     gap: 5px;
+
+}
+ul li {
+    list-style: none;
+}
